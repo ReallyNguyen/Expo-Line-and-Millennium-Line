@@ -69,7 +69,7 @@ const Map = () => {
     return (
         <MapContainer style={{ height: "100vh" }} center={[49.25926999181031, -122.96347419054722]} zoom={12} scrollWheelZoom={true}>
             <TileLayer
-                attribution='&copy; <a href="https://github.com/ReallyNguyen/Expo-Line-and-Millennium-Line.git">By Jordan</a> contributors'
+                attribution='&copy; <a href="https://github.com/ReallyNguyen/Expo-Line-and-Millennium-Line.git">By Jordan Nguyen</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             {millenniumStations.map((millennium, index) => (
