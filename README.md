@@ -6,4 +6,4 @@
 
 ## Description
 
-A website with a map using Typescript and Leaflet
+A website with a map using Typescript and Leaflet. It shows the expo and millennium line for all stops.
